@@ -14,7 +14,7 @@
 **MainTest.cs** просто для выполнения программы в консоли
 
 
-2. **ElevatorPoject.UnitTests** все юнит тесты здесь, внутри файла **ElevatorTests.cs**. Здесь находятся функции для тестов. 
+2. **ElevatorPoject.UnitTests** все юнит тесты здесь, внутри файла **ElevatorTests.cs**. Здесь находятся методы для тестов. 
 
 ![](Images/ElevatorTests.cs.png)
 
